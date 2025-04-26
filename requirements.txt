@@ -1,4 +1,4 @@
-requests==2.31.0
-pandas==2.2.2
-hopsworks==3.5.4
-pyarrow==15.0.2
+requests
+pandas
+hopsworks[python]
+pyarrow
