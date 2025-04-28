@@ -1,4 +1,11 @@
-requests
-pandas
-hopsworks[python]
-pyarrow
+streamlit==1.41.1
+hopsworks==4.2.2
+pandas==2.1.4
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.6.0
+xgboost==3.0.0
+altair==5.5.0
+pyarrow==18.1.0
+requests==2.32.3
