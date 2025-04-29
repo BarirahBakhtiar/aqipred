@@ -9,3 +9,4 @@ xgboost==3.0.0
 altair==5.5.0
 pyarrow==18.1.0
 requests==2.32.3
+confluent-kafka==2.6.1
